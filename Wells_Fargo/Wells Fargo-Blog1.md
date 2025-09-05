@@ -63,6 +63,8 @@
 **Similar Questions:**  
 - [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)
 
+[Hackerrank challenge link](https://www.hackerrank.com/contests/placement-questions-mit/challenges/maximize-energy-1)
+
 ---
 
 ## Question 2: *Modified Knapsack problem*  
